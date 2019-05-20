@@ -1,6 +1,4 @@
-// Nomaan Khan
-// CS 4348-001
-// Project 2
+# Hotel-Simulation
 
 List of files:
 
